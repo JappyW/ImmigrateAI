@@ -1,0 +1,54 @@
+[
+  {
+    "type": "TextInput",
+    "top": 42,
+    "left": 42,
+    "title": "Text Input",
+    "name": "text",
+    "id": "43718063-c33a-46db-93e4-5808690c4fb9",
+    "properties": {
+      "label": "Input",
+      "placeholder": "Put your text in here",
+      "required": true
+    }
+  },
+  {
+    "type": "TextArea",
+    "top": 84,
+    "left": 0,
+    "name": "area",
+    "title": "Text Area",
+    "id": "18fe4725-afb1-4bf4-b414-ef163ed05950",
+    "properties": {
+      "label": "Area",
+      "placeholder": "Placeholder",
+      "required": true
+    }
+  },
+  {
+    "type": "Dropdown",
+    "top": 126,
+    "left": 0,
+    "name": "select",
+    "title": "Dropdown",
+    "id": "f448c43a-a72d-485f-85eb-410e8d7ac5c0",
+    "properties": {
+      "label": "Dropdown",
+      "placeholder": "Drop",
+      "required": true
+    }
+  },
+  {
+    "type": "Dropdown",
+    "top": 168,
+    "left": 0,
+    "name": "select",
+    "title": "Dropdown",
+    "id": "79e3d675-4b8b-4be1-b6bc-f1e4aae9600e",
+    "properties": {
+      "label": "Dropdown2",
+      "placeholder": "2",
+      "required": true
+    }
+  }
+]
